@@ -15,11 +15,11 @@ listaFilmes.push("https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2
 
 
 listaNomes.push("Star Wars Episódio I: A Ameaça Fantasma (1999)")
-listaNomes.push("Star Wars, Episódio II: Ataque dos Clones (2002)")
-listaNomes.push("Star Wars, Episódio III: A Vingança dos Sith (2005)")
+listaNomes.push("Star Wars Episódio II: Ataque dos Clones (2002)")
+listaNomes.push("Star Wars Episódio III: A Vingança dos Sith (2005)")
 listaNomes.push("Star Wars Episódio IV: Uma Nova Esperança (1977)")
-listaNomes.push("Star Wars, Episódio V: O Império Contra-Ataca (1980)")
-listaNomes.push("Star Wars, Episódio VI: O Retorno do Jedi (1983)")
+listaNomes.push("Star Wars Episódio V: O Império Contra-Ataca (1980)")
+listaNomes.push("Star Wars   Episódio VI: O Retorno do Jedi (1983)")
 listaNomes.push("Star Wars Episódio VII: O Despertar da Força (2015)")
 listaNomes.push("Star Wars Episódio VIII: Os Últimos Jedi (2017)")
 listaNomes.push("Star Wars Episódio IX: A Ascensão Skywalker (2019)")
